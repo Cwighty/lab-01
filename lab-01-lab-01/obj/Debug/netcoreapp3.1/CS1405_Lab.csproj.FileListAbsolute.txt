@@ -1,0 +1,13 @@
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.exe
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.deps.json
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.runtimeconfig.json
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.runtimeconfig.dev.json
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.dll
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\bin\Debug\netcoreapp3.1\CS1405_Lab.pdb
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.csprojAssemblyReference.cache
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.AssemblyInfoInputs.cache
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.AssemblyInfo.cs
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.csproj.CoreCompileInputs.cache
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.dll
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.pdb
+C:\Users\caleb.wightman\Documents\SchoolCode\lab-01-lab-01\obj\Debug\netcoreapp3.1\CS1405_Lab.genruntimeconfig.cache
